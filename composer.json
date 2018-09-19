@@ -3,5 +3,6 @@
     "description": "测试composer包",
     "type": "project",
     "license": "mit",
+    "minimum-stability": "dev",
     "require": {}
 }
