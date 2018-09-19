@@ -1,0 +1,7 @@
+{
+    "name": "w337886915/composertest",
+    "description": "测试composer包",
+    "type": "project",
+    "license": "mit",
+    "require": {}
+}
