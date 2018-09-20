@@ -3,6 +3,6 @@
     "description": "this is a test project",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
