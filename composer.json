@@ -1,9 +1,8 @@
 {
     "name": "w337886915/composertest",
-    "description": "imj yaa pv udy qn",
+    "description": "this is a test project",
     "type": "project",
-    "license": "mit",
+    "license": "MIT",
     "minimum-stability": "dev",
-    "version": "1.0.0",
     "require": {}
 }
